@@ -8,7 +8,7 @@
 
 ---
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/nicol%C3%A1s-felipe-castellanos-ortega-08934b216/" target=_blank title="LinkedIn" alt="LinkedIn" width="150" height="40" />  
+  <a src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/nicol%C3%A1s-felipe-castellanos-ortega-08934b216/" target=_blank title="LinkedIn" alt="LinkedIn" width="150" height="40" />  
 </div>
 
 
