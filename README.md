@@ -9,8 +9,8 @@
 
 ### 🤵About me : 
 
-- 🔭 I’m currently studying on Manuela Beltran University
-- 👯 I’m looking to collaborate on backend projects
-- 💬 Ask me about Java, C and Python
-- 🌱 I’m currently learning C++ and C#
+- 🔭 I’m currently studying on **Manuela Beltran University**
+- 👯 I’m looking to collaborate on **backend projects**
+- 💬 Ask me about **Java, C and Python**
+- 🌱 I’m currently learning **C++ and C#**
 - 📫 How to reach me  **nicoortega334@gmail.com**
