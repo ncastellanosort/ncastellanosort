@@ -52,17 +52,9 @@
 
 <div align ="center" >
 
-  <div align ="left" >
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncastellanosort&show_icons=true&theme=merko)
-  
-  </div>  
-  <div align ="right" >
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&langs&count=8&theme=merko)
-    
-  </div>
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncastellanosort&show_icons=true&theme=cobalt)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&langs&count=8&theme=cobalt)
+
 </div>
 
 
