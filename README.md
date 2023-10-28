@@ -18,7 +18,7 @@
 ### 🤵About me : 
 - 🖱️ I’m a **Software Engineering Student**
 - 🔭 I’m currently studying on **Manuela Beltran University**
-- 👯 I’m looking to collaborate on **backend projects**
+- 👯 I’m looking to collaborate on **Backend Projects**
 - 💬 Ask me about **Java, JavaScript, C and Python**
 - 🌱 I’m currently learning **C++ and C#**
 - 📫 How to reach me  **nicoortega334@gmail.com**
@@ -49,7 +49,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40" />&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" />&nbsp;  
 
-    
   </div>
 </div>
 
