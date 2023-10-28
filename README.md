@@ -1,8 +1,8 @@
 ###
 <p align="center">
   <img src="https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif" width="300px"/>
-  <h2 align="center">Hi there 👋 I'm Nicolas!</h2>
-  <h4 align="center"><b>Microsoft Learn Student Ambassador 👨‍💻.</b></h4>
+  <h1 align="center">Hi there 👋 I'm Nicolas!</h1>
+  <h3 align="center"><b>Microsoft Learn Student Ambassador 👨‍💻.</b></h3>
   <h5 align="center">A very curious person and passionate about coding, trying to be a happy backend developer.</h5>
 </p>
 
