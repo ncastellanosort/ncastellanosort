@@ -12,6 +12,22 @@
 
 - 🔭 I’m currently studying on **Manuela Beltran University**
 - 👯 I’m looking to collaborate on **backend projects**
-- 💬 Ask me about **Java, C and Python**
+- 💬 Ask me about **Java, JavaScript, C and Python**
 - 🌱 I’m currently learning **C++ and C#**
 - 📫 How to reach me  **nicoortega334@gmail.com**
+
+---
+
+<div align="left">
+  <h3>⛏️ Languages and Tools: </h3>
+  <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40" />&nbsp;  
+
+
+
+
+
+    
+  </div>
+</div>
+  
