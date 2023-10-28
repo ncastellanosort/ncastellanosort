@@ -52,12 +52,12 @@
 
 <div align ="center" >
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncastellanosort&show_icons=true&theme=onedark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncastellanosort&show_icons=true&theme=transparent)
 
 </div>
 <div align ="center" >
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&langs&count=8&theme=onedark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&langs&count=8&theme=transparent)
 
 </div>
 
