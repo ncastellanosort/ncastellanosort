@@ -1,6 +1,6 @@
 ###
 <p align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="150px"/>
+  <img src="https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif" width="300px"/>
   <h3 align="center">Hi there 👋 I'm Nicolas!</h3>
 </p>
 
