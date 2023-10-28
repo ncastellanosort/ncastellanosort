@@ -7,6 +7,8 @@
 
 ---
 
+### 🤵About me : 
+
 - 🔭 I’m currently studying on Manuela Beltran University
 - 👯 I’m looking to collaborate on backend projects
 - 💬 Ask me about Java, C and Python
