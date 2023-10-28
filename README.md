@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif" width="300px"/>
   <h1 align="center">Hi there 👋 I'm Nicolas!</h1>
-  <h3 align="center">A very curious person and passionate about coding, trying to be a happy backend developer.</h3>
+  <h3 align="center">A very curious person and passionate about coding, trying to be a happy Backend Developer.</h3>
 </p>
 
 ---
