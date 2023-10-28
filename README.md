@@ -48,14 +48,14 @@
 
 ### ⌨️ My stats : 
 
-<div align="left">
+<div align ="center" align="left">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncastellanosort&show_icons=true&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncastellanosort&show_icons=true&theme=merko)
   
 </div>  
-<div align="right">
+<div align ="center" align="right">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&langs&count=8&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&langs&count=8&theme=merko)
     
 </div>
 
