@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on **Backend Projects**
 - 💬 Ask me about **Java, JavaScript, C and Python**
 - 🌱 I’m currently learning **C++ and C#**
-- 📫 How to reach me  **nicoortega334@gmail.com**
+- 📫 Let's talk!  **nicoortega334@gmail.com**
 
 ---
 
