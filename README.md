@@ -80,6 +80,18 @@
 
 </div>
 
+<div style="display: flex; justify-content: center;">
+  <div style="margin: 10px;">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncastellanosort&show_icons=true&theme=dark)
+    <img src="https://github-readme-stats.vercel.app/api?username=ncastellanosort&show_icons=true&theme=dark" alt="GitHub Stats">
+  </div>
+  <div style="margin: 10px;">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&langs&count=8&theme=dark)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&langs&count=8&theme=dark" alt="Top Languages">
+  </div>
+</div>
+
+
   
 
 
