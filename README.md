@@ -80,7 +80,7 @@
 
 </div>
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: grid; place-items: center;">
   <div style="margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=ncastellanosort&show_icons=true&theme=dark" alt="GitHub Stats">
   </div>
