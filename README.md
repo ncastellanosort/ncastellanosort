@@ -36,7 +36,7 @@
   
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap" width="120" height="28" />&nbsp;    
   
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="90" height="28" />&nbsp;  
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="80" height="28" />&nbsp;  
     
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript" width="120" height="28" />&nbsp;
   
