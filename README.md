@@ -80,6 +80,15 @@
 
 </div>
 
+<div align="center">
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ncastellanosort&show_icons=true&theme=dark" alt="GitHub Stats">
+  </div>
+  <div style="display: inline-block; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&langs&count=8&theme=dark" alt="Top Languages">
+  </div>
+</div>
+
 
 
 
