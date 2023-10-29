@@ -66,7 +66,7 @@
   
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" title="Vim" alt="Vim" width="80" height="28" />&nbsp;  
   
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VSCode" alt="VSCode" width="160" height="28" />&nbsp;  
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VSCode" alt="VSCode" width="180" height="28" />&nbsp;  
   
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" title="VisualStudio" alt="VisualStudio" width="145" height="28" />&nbsp;  
   
