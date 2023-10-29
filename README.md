@@ -52,7 +52,7 @@
   
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#" alt="C#" width="68" height="28" />&nbsp;  
   
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" title=".NET" alt=".NET" width="120" height="28" />&nbsp;  
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" title=".NET" alt=".NET" width="68" height="28" />&nbsp;  
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="28" />&nbsp;  
   
