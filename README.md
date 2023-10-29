@@ -80,14 +80,15 @@
 
 </div>
 
-<div style="display: grid; place-items: center;">
-  <div style="margin: 10px;">
+<div style="display: grid; place-items: center; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=ncastellanosort&show_icons=true&theme=dark" alt="GitHub Stats">
   </div>
-  <div style="margin: 10px;">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&langs&count=8&theme=dark" alt="Top Languages">
   </div>
 </div>
+
 
 
 
