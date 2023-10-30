@@ -5,7 +5,6 @@
   <h4 align="center">A very curious person and passionate about coding, trying to be a happy Backend Developer.</h4>
 </p>
 
----
 
 <h2 align="center"><b>Microsoft Learn Student Ambassador 👨‍💻</b></h2>
 <div align="center">
