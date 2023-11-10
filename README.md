@@ -30,7 +30,7 @@
 ---
 
 <div align="left">
-  <h3>⛏️ Languages and Technologies : </h3>
+  <h3> ⛏️ Languages and Technologies : </h3>
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; display: flex; flex-wrap: wrap; max-width: 33.33%;">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" width="80" height="28" />&nbsp;  
