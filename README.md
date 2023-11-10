@@ -1,13 +1,13 @@
 ###
 <p align="center">
   <img src="https://media.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif" width="300px"/>
-  <h1 align="center">Hey👋 I'm Nicolas!</h1>
+  <h1 align="center">Hey 👋 I'm Nicolas!</h1>
   <h4 align="center">A very curious person and passionate about coding, trying to be a happy Backend Developer.</h4>
 </p>
 
 <div align="center">
 
-## I'm a [Microsoft Learn Student Ambassador](https://markdownlivepreview.com/)
+## 🤵 I'm a [Microsoft Learn Student Ambassador](https://markdownlivepreview.com/)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ---
 
-### 🤵About me : 
+### 🤵 About me : 
 - 🖱️ I’m a **Software Engineering Student**
 - 🔭 I’m currently studying on **Manuela Beltran University**
 - 👯 I’m looking to collaborate on **Backend Projects**
