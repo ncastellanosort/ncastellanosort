@@ -7,7 +7,7 @@
 
 <div align="center">
 
-## 🧑 I'm a [Microsoft Learn Student Ambassador](https://markdownlivepreview.com/) and a [Oracle Academy Student](https://markdownlivepreview.com/)
+## 🏎️ I'm a [Microsoft Learn Student Ambassador](https://markdownlivepreview.com/) and a [Oracle Academy Student](https://markdownlivepreview.com/)
 
 </div>
 
