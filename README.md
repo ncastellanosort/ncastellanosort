@@ -22,7 +22,7 @@
 ### 🤵 About me : 
 - 🖱️ I’m a **Software Engineering Student**
 - 🔭 I’m currently studying on **Manuela Beltran University**
-- 👯 I’m looking to collaborate on **Backend Projects**
+- 📽️ I’m looking to collaborate on **Backend Projects**
 - 💬 Ask me about **Java, JavaScript, C and Python**
 - 🌱 I’m currently learning **C++ and C#**
 - 📫 Let's talk!  **nicoortega334@gmail.com**
