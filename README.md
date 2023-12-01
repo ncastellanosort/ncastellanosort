@@ -24,7 +24,7 @@
 - 🔭 I’m currently studying on **Manuela Beltran University**
 - 📽️ I’m open to **Backend Collaborations and Development**
 - 💬 Ask me about **Java, C and Python**
-- 🌱 I’m currently learning **C++ and C#**
+- 🌱 I’m currently learning **Spring Boot**
 - 📫 Let's talk!  **nicoortega334@gmail.com**
 
 ---
