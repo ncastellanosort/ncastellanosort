@@ -49,22 +49,17 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java" width="80" height="28" />&nbsp; 
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="C" alt="C" width="57" height="28" />&nbsp;  
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++" alt="C++" width="68" height="28" />&nbsp;  
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#" alt="C#" width="63" height="28" />&nbsp;  
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#" alt="C#" width="60" height="28" />&nbsp;  
       <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" title=".NET" alt=".NET" width="68" height="28" />&nbsp;
     </div>
     <div style="flex: 1; display: flex; flex-wrap: wrap; max-width: 33.33%;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="28" />&nbsp;  
-      <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="28" />&nbsp;  
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" width="120" height="28" />&nbsp;  
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" width="80" height="28" />&nbsp;  
       <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="28" />&nbsp; 
     </div>
     <div style="flex: 1; display: flex; flex-wrap: wrap; max-width: 33.33%;">
       <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" title="Vim" alt="Vim" width="80" height="28" />&nbsp;  
-      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VSCode" alt="VSCode" width="180" height="28" />&nbsp;  
-      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" title="VisualStudio" alt="VisualStudio" width="145" height="28" />&nbsp;  
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux" alt="Linux" width="90" height="28" />&nbsp; 
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" title="KaliLinux" alt="KaliLinux" width="110" height="28" />&nbsp; 
     </div>
   </div>
 </div>
