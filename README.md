@@ -49,7 +49,7 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java" width="80" height="28" />&nbsp; 
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="C" alt="C" width="57" height="28" />&nbsp;  
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++" alt="C++" width="68" height="28" />&nbsp;  
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#" alt="C#" width="55" height="28" />&nbsp;  
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" title="C#" alt="C#" width="50" height="28" />&nbsp;  
       <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" title=".NET" alt=".NET" width="68" height="28" />&nbsp;
     </div>
     <div style="flex: 1; display: flex; flex-wrap: wrap; max-width: 33.33%;">
