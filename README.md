@@ -49,7 +49,7 @@
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" width="102" height="28" />&nbsp;  
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" width="80" height="28" />&nbsp;  
       <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="28" />&nbsp; 
-      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" title="Vim" alt="Vim" width="65" height="28" />&nbsp; 
+      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" title="Vim" alt="Vim" width="67" height="28" />&nbsp; 
     </div>
   </div>
 </div>
