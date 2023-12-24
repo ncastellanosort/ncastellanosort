@@ -19,7 +19,7 @@
 
 ---
 
-### 🤵 About me : 
+### 🕴️ About me : 
 - 🖱️ I’m a **Software Engineering Student**
 - 🔭 I’m currently studying on **Manuela Beltran University**
 - 📽️ I’m open to **Java Collaborations**
