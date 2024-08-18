@@ -36,9 +36,9 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" width="100" height="28" />&nbsp; 
     </div>
     <div style="flex: 1; display: flex; flex-wrap: wrap; max-width: 33.33%;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="28" />&nbsp;  
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" width="102" height="28" />&nbsp;  
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" width="80" height="28" />&nbsp;  
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" width="80" height="28" />&nbsp; 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="28" />&nbsp;
     </div>
   </div>
 </div>
