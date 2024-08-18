@@ -60,7 +60,7 @@
 </div>
 <div align ="center" >
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncastellanosort&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&layout=compact&theme=dark)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ncastellanosort&theme=whatsapp-dark2&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
