@@ -50,14 +50,16 @@
 
 <div align ="center" >
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&layout=compact&theme=dark)
-  
-</div>
-<div align ="center" >
-
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ncastellanosort&theme=highcontrast)](https://git.io/streak-stats)
 
 </div>
+
+<div align ="center" >
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&layout=compact&theme=dark)
+  
+</div>
+
 
 
 
