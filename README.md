@@ -5,15 +5,8 @@
   <h4 align="center">A curious and passionate individual with a love for coding </h4>
 </p>
 
-<div align="center">
-
-## 🏎️ I'm a [Microsoft Learn Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/f8bf7232-0949-41cc-9b30-ba41bd07367b) and a [Oracle Academy Student](https://markdownlivepreview.com/)
-
-</div>
-
 
 <div align="center">
-  <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/f8bf7232-0949-41cc-9b30-ba41bd07367b" target="_blank" ><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" title="MLSA" alt="MLSA" width="160" height="38" /></a>
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-felipe-castellanos-ortega-08934b216/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" width="150" height="38" /></a>
 </div>
 
