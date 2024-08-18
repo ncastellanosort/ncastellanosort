@@ -26,14 +26,14 @@
   <h3> ⛏️ Languages and Technologies : </h3>
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; display: flex; flex-wrap: wrap; max-width: 33.33%;">
+            <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java" width="80" height="28" />&nbsp; 
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" title="Spring" alt="Spring" width="100" height="28" />&nbsp;  
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL" width="100" height="28" />&nbsp;
+    </div>
+    <div style="flex: 1; display: flex; flex-wrap: wrap; max-width: 33.33%;">
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="65" height="28" />&nbsp;  
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" width="120" height="28" />&nbsp;
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" width="100" height="28" />&nbsp; 
-    </div>
-    <div style="flex: 1; display: flex; flex-wrap: wrap; max-width: 33.33%;">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java" width="80" height="28" />&nbsp; 
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" title="Spring" alt="Spring" width="57" height="28" />&nbsp;  
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL" width="57" height="28" />&nbsp;
     </div>
     <div style="flex: 1; display: flex; flex-wrap: wrap; max-width: 33.33%;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="28" />&nbsp;  
