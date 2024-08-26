@@ -56,7 +56,7 @@
 
 <div align ="center" >
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&layout=compact&theme=highcontrast)
   
 </div>
 
