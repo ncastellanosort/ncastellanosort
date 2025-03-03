@@ -17,8 +17,7 @@
 - 🖱️ I’m a **Software Engineering Student**
 - 🔭 I’m currently studying on **Manuela Beltran University**
 - 📽️ I’m open to **Java Collaborations**
-- 💬 Ask me about **Java and Python**
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Go**
 - 📫 Let's talk!  **nicoortega334@gmail.com**
 
 ---
