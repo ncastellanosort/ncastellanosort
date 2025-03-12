@@ -1,7 +1,8 @@
 ### 👋 Hey there, I'm **Nicolas!**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RtNDh5M2N3dmN5OXcwczVka3g4bmE0dGFieHZkZW5kZDc3bnd2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" width="100"/>
+  
 </p>
 
 ---
