@@ -49,13 +49,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ncastellanosort&theme=highcontrast" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&layout=compact&theme=highcontrast" alt="Top Languages" />
-</p>
-
----
-
 🚀 Always looking for new challenges and exciting projects!
