@@ -1,4 +1,4 @@
-### 👋 Welcome, i'm **Nicolas!**
+### 👋 Welcome!**
 
 ---
 
