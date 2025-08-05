@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 - 🎓 **Software Engineering Student** at **Manuela Beltrán University**
-- 💻 Passionate about **software development** and **backend engineering**
+- 💻 Passionate about **backend engineering**
 - 🌱 Currently learning **Python & Go**
 - 🔍 Interested in **microservices & distributed systems**
 - 📫 Reach me at: **nicoortega334@gmail.com**
