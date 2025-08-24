@@ -2,8 +2,7 @@
 - 🔍 Interested in **ML & DL**
 - 🌱 Currently learning **PyTorch & CNNs**
 - 📫 Reach me at: **nicoortega334@gmail.com**
-
----
+- 🖥️ My socials:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-felipe-castellanos-ortega-08934b216/" target="_blank">
