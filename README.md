@@ -5,7 +5,7 @@
 ### 🚀 About Me
 - 🎓 **Software Engineering Student** at **Manuela Beltrán University**
 - 🔍 Interested in **ML & DL**
-- 🌱 Currently learning **Pytorch & CV**
+- 🌱 Currently learning **PyTorch & CNNs**
 - 📫 Reach me at: **nicoortega334@gmail.com**
 
 ---
