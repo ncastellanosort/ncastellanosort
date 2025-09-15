@@ -1,7 +1,3 @@
-### 👋 **Welcome**
-
----
-
 ### 🚀 About Me
 - 🎓 **Software Engineering Student** at **Manuela Beltrán University**
 - 💻 Passionate about **frontend & backend**
