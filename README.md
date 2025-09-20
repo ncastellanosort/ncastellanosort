@@ -1,8 +1,7 @@
 ### 🚀 About Me
 - 🎓 **Software Engineering Student** at **Manuela Beltrán University**
-- 💻 Passionate about **frontend & backend**
-- 🌱 Currently learning **Express.js & React**
-- 🔍 Interested in **microservices & distributed systems**
+- 💻 Passionate about **backend & low level programming**
+- 🌱 Currently learning **Express.js**
 - 📫 Reach me at: **nicoortega334@gmail.com**
 
 ---
@@ -32,7 +31,6 @@
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React" />
 </p>
 
 #### 🛢️ Databases
