@@ -1,7 +1,7 @@
 ### 🚀 About Me
 - 🎓 **Software Engineering Student** at **Manuela Beltrán University**
-- 💻 Passionate about **backend & low level programming**
-- 🌱 Currently learning **Express.js**
+- 💻 Passionate about **full stack development**
+- 🌱 Currently learning **React.js & Next.js**
 - 📫 Reach me at: **nicoortega334@gmail.com**
 
 ---
