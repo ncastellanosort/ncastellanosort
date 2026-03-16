@@ -1,8 +1,11 @@
 ### 🚀 About Me
-- 🎓 **Software Engineering Student** at **Manuela Beltrán University**
-- 💻 Passionate about **full stack development**
-- 🌱 Currently learning **Nest.js, React.js & Next.js**
-- 📫 Reach me at: **nicoortega334@gmail.com**
+* 🎓 **Software Engineering Student** at **Manuela Beltrán University**
+* ⚙️ Interested in **DevOps, Cloud Infrastructure & Automation**
+* 🐳 Working with **Docker, CI/CD pipelines and cloud deployments**
+* ☁️ Currently learning **Kubernetes, Terraform, and AWS**
+* 🛠️ Background in **Full Stack Development (Nest.js, React, Next.js, Python, Java)**
+* 📫 Reach me at: **[nicoortega334@gmail.com](mailto:nicoortega334@gmail.com)**
+
 
 ---
 
@@ -53,9 +56,12 @@
 
 #### 🧰 DevOps / Infrastructure
 <p>
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub_Actions" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" alt="Kubernetes" />
 </p>
 
 #### 🗂️ Project Management
