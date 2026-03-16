@@ -70,3 +70,10 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="Jira" />
 </p>
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncastellanosort&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&layout=compact&theme=dark)
+
+
