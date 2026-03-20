@@ -68,6 +68,8 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="Jira" />
 </p>
 
+---
+
 ### 📊 GitHub Stats
   
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncastellanosort&theme=dark)
