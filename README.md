@@ -1,12 +1,12 @@
 <div align="center">
 
 ### 🚀 About Me
-* 🎓 **Software Engineering Student** at **Manuela Beltrán University**
-* ⚙️ Interested in **DevOps, Cloud Infrastructure & Automation**
-* 🐳 Working with **Docker, CI/CD pipelines and cloud deployments**
-* ☁️ Currently learning **Kubernetes, Terraform, and AWS**
-* 🛠️ Background in **Full Stack Development (Nest.js, React, Next.js, Python, Java)**
-* 📫 Reach me at: **[nicoortega334@gmail.com](mailto:nicoortega334@gmail.com)**
+🎓 **Software Engineering Student** at **Manuela Beltrán University**
+⚙️ Interested in **DevOps, Cloud Infrastructure & Automation**
+🐳 Working with **Docker, CI/CD pipelines and cloud deployments**
+☁️ Currently learning **Kubernetes, Terraform, and AWS**
+🛠️ Background in **Full Stack Development (Nest.js, React, Next.js, Python, Java)**
+📫 Reach me at: **[nicoortega334@gmail.com](mailto:nicoortega334@gmail.com)**
 
 
 ---
@@ -74,6 +74,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
+  
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncastellanosort&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncastellanosort&show_icons=true&theme=dark)
