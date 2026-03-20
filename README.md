@@ -6,8 +6,9 @@
 🐳 Working with **Docker, CI/CD pipelines and cloud deployments**
 ☁️ Currently learning **Kubernetes, Terraform, and AWS**
 🛠️ Background in **Full Stack Development (Nest.js, React, Next.js, Python, Java)**
-📫 Reach me at: **[nicoortega334@gmail.com](mailto:nicoortega334@gmail.com)**
+---
 
+📫 Reach me at: **[nicoortega334@gmail.com](mailto:nicoortega334@gmail.com)**
 
 ---
 
