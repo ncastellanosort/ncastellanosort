@@ -61,7 +61,3 @@
 ### 📊 GitHub Stats
   
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ncastellanosort&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ncastellanosort&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ncastellanosort&layout=compact&theme=dark)
